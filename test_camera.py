@@ -1,5 +1,5 @@
 import pytest
-from camera_manager import CameraManager
+from camera import CameraManager
 
 # -------------------------------
 # Test Cases: requested_hours, used_hours, priority, camera_id, expected_decision
